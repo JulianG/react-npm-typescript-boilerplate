@@ -1,3 +1,7 @@
+tmp-*.tgz
+
+tests/tests
+
 # Logs
 logs
 *.log
