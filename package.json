@@ -25,5 +25,11 @@
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.2",
     "sinon": "^2.1.0"
-  }
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "main.js"
+  ],
+  "types": "./lib/hello.d.ts"
 }
